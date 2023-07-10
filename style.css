@@ -1,0 +1,23 @@
+.header {
+    border: 2px solid red;
+    background-color: aqua;
+    width: 100%;
+}
+
+.block__wrap {
+    max-width: 1200px;
+    border: 2px solid rgb(33, 207, 48);
+    display: flex;
+    column-gap: 50px;
+    margin: 0 auto;
+}
+.block__1 {
+    border: 2px solid rgb(75, 21, 221);
+}
+
+.block__2 {
+    border: 2px solid rgb(24, 24, 26);
+}
+.block__3 {
+    border: 2px solid rgb(169, 197, 104);
+}
